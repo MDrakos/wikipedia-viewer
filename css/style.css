@@ -1,6 +1,7 @@
 body {
     background-color: darkslategray !important;
     font-family: 'Roboto', sans-serif !important;
+    color: gray !important;
 }
 
 a {
@@ -9,7 +10,7 @@ a {
 }
 
 #random-article {
-    margin-top: 100px;
+    margin-top: 50px;
     font-family: 'Roboto', sans-serif;
     font-size: 20px;
     text-align: center;

@@ -38,7 +38,7 @@ $(document).ready(function () {
                   '</h3><p>' + received[result].snippet + '</p></a></div>';
                   $('.results').append(html);
                 }
-              }
+              },
           });
     }
 
